@@ -1,0 +1,203 @@
+/bin/sh: module: line 1: syntax error: unexpected end of file
+/bin/sh: error importing function definition for `module'
+/bin/sh: source_helpers: line 1: syntax error: unexpected end of file
+/bin/sh: error importing function definition for `source_helpers'
+/bin/sh: ml: line 1: syntax error: unexpected end of file
+/bin/sh: error importing function definition for `ml'
+/bin/sh: which: line 1: syntax error: unexpected end of file
+/bin/sh: error importing function definition for `which'
+/bin/sh: wait_until_port_used: line 1: syntax error: unexpected end of file
+/bin/sh: error importing function definition for `wait_until_port_used'
+/bin/sh: random_number: line 1: syntax error: unexpected end of file
+/bin/sh: error importing function definition for `random_number'
+/bin/sh: port_used: line 1: syntax error: unexpected end of file
+/bin/sh: error importing function definition for `port_used'
+/bin/sh: create_passwd: line 1: syntax error: unexpected end of file
+/bin/sh: error importing function definition for `create_passwd'
+/bin/sh: find_port: line 1: syntax error: unexpected end of file
+/bin/sh: error importing function definition for `find_port'
+sh: module: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `module'
+sh: source_helpers: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `source_helpers'
+sh: ml: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `ml'
+sh: which: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `which'
+sh: wait_until_port_used: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `wait_until_port_used'
+sh: random_number: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `random_number'
+sh: port_used: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `port_used'
+sh: create_passwd: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `create_passwd'
+sh: find_port: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `find_port'
+Virtuoso Framework License (111) was checked out successfully. Total checkout time was 0.03s.
+sh: module: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `module'
+sh: source_helpers: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `source_helpers'
+sh: ml: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `ml'
+sh: which: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `which'
+sh: wait_until_port_used: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `wait_until_port_used'
+sh: random_number: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `random_number'
+sh: port_used: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `port_used'
+sh: create_passwd: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `create_passwd'
+sh: find_port: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `find_port'
+sh: module: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `module'
+sh: source_helpers: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `source_helpers'
+sh: ml: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `ml'
+sh: which: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `which'
+sh: wait_until_port_used: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `wait_until_port_used'
+sh: random_number: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `random_number'
+sh: port_used: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `port_used'
+sh: create_passwd: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `create_passwd'
+sh: find_port: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `find_port'
+sh: module: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `module'
+sh: source_helpers: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `source_helpers'
+sh: ml: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `ml'
+sh: which: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `which'
+sh: wait_until_port_used: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `wait_until_port_used'
+sh: random_number: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `random_number'
+sh: port_used: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `port_used'
+sh: create_passwd: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `create_passwd'
+sh: find_port: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `find_port'
+sh: module: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `module'
+sh: source_helpers: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `source_helpers'
+sh: ml: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `ml'
+sh: which: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `which'
+sh: wait_until_port_used: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `wait_until_port_used'
+sh: random_number: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `random_number'
+sh: port_used: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `port_used'
+sh: create_passwd: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `create_passwd'
+sh: find_port: line 1: syntax error: unexpected end of file
+sh: error importing function definition for `find_port'
+********************************************************************************
+Product   : Virtuoso(R) XStream Out
+Program   : @(#)$CDS: strmout version 6.1.8-64b 08/09/2022 19:14 (cpgsrv11) $
+          : sub-version  IC6.1.8-64b.500.27 
+Started at: 04-Jan-2026  12:58:55
+User Name : sevangel
+Host Name : cn94.it.auth.gr
+Directory : /home/s/sevangel/prj/virtuoso-6.1.8-2022-23
+CADENCE Design Systems, Inc.
+********************************************************************************
+Info: Cellview Rev Num:99,  Tech Rev Num:59
+
+Loading gpdk045/libInit.il ...
+	Loading gpdk045/loadCxt.ile ... done!
+	Loading context 'gpdk045' from library 'gpdk045' ... done!
+	Loading context 'pdkUtils' from library 'gpdk045' ... done!
+	Loading gpdk045/gpdk045_customFilter.il ... done!
+	Loading gpdk045/libInitCustomExit.il ... 
+	Loading Environment Settings ...
+	Loading gpdk045/gpdk045_PDKRegistrations.il ... done!
+
+  *************************************************************           
+  *              Cadence Design Systems, Inc.                 *           
+  *                                                           *           
+  *                    Generic 45nm PDK                       *           
+  *                        (gpdk045)                          *           
+  *                                                           *           
+  *************************************************************           
+	
+
+	VERSION: 6.0 (09-September-2019)
+
+done!
+Loaded gpdk045/libInit.il successfully!
+WARNING (XSTRM-20): Output Stream file '/home/s/sevangel/VLSI_Design_Task/SchmittTriggerLVS/SchmittTrigger.gds' already exists. It will be overwritten.
+INFO (XSTRM-217): Reading the layer map file, /mnt/apps/prebuilt/EDA/designkits/GPDK/gpdk045_v_6_0/gpdk045/gpdk045.layermap
+INFO (XSTRM-162): You have not used the '-viaMap' option. If the OpenAccess design has native oaVia instances, use the '-viaMap' option for preserving oaVia instances in a XStream Out - XStream In round trip. Using the '-viaMap' option improves performance and VM usage of applications using the Streamed-In design.
+
+Summary of Options :
+library                                 SchmittTriggerDesign
+strmFile                                /home/s/sevangel/VLSI_Design_Task/SchmittTriggerLVS/SchmittTrigger.gds
+topCell                                 SchmittTrigger
+view                                    layout
+runDir                                  /home/s/sevangel/VLSI_Design_Task/SchmittTriggerLVS
+logFile                                 /home/s/sevangel/VLSI_Design_Task/SchmittTriggerLVS/PIPO1.LOG
+techLib                                 gpdk045
+hierDepth                               32
+maxVertices                             2048
+layerMap                                /mnt/apps/prebuilt/EDA/designkits/GPDK/gpdk045_v_6_0/gpdk045/gpdk045.layermap
+userSkillFile                           /home/s/sevangel/VLSI_Design_Task/SchmittTriggerLVS/strmout.il
+labelDepth                              32
+case                                    Preserve
+convertDot                              node
+
+INFO (XSTRM-223): 1. Translating stdVia gpdk045/M1_PO/layout as STRUCTURE M1_PO_CDNS_1.
+INFO (XSTRM-223): 2. Translating stdVia gpdk045/M2_M1/layout as STRUCTURE M2_M1_CDNS_2.
+INFO (XSTRM-223): 3. Translating stdVia gpdk045/M1_NWELL/layout as STRUCTURE M1_NWELL_CDNS_3.
+INFO (XSTRM-223): 4. Translating stdVia gpdk045/M1_PSUB/layout as STRUCTURE M1_PSUB_CDNS_4.
+INFO (XSTRM-223): 5. Translating cellView gpdk045/nmos1v/layout as STRUCTURE nmos1v_CDNS_5.
+INFO (XSTRM-223): 6. Translating cellView gpdk045/nmos1v/layout as STRUCTURE nmos1v_CDNS_6.
+INFO (XSTRM-223): 7. Translating cellView gpdk045/pmos1v/layout as STRUCTURE pmos1v_CDNS_7.
+INFO (XSTRM-223): 8. Translating cellView gpdk045/pmos1v/layout as STRUCTURE pmos1v_CDNS_8.
+INFO (XSTRM-223): 9. Translating cellView gpdk045/pmos1v/layout as STRUCTURE pmos1v_CDNS_9.
+INFO (XSTRM-223): 10. Translating cellView gpdk045/nmos1v/layout as STRUCTURE nmos1v_CDNS_10.
+INFO (XSTRM-223): 11. Translating cellView SchmittTriggerDesign/SchmittTrigger/layout as STRUCTURE SchmittTrigger.
+INFO (XSTRM-180): You have not used the '-objectMap' option. The design has instance(s) of at least one of following OpenAccess objects: oaBlockage, oaBoundary, oaRow, and oaMarker. Any information about these objects will not be translated into the generated stream file. Use the '-objectMap' option to translate/preserve these objects using XStream.
+
+Summary of Objects Translated:
+	Scalar Instances:                       8
+	Array Instances:                        0
+	Polygons:                               0
+	Paths:                                  0
+	Rectangles:                             141
+	Lines:                                  0
+	Arcs:                                   0
+	Donuts:                                 0
+	Dots:                                   0
+	Ellipses:                               0
+	Boundaries:                             0
+	Area Blockages:                         0
+	Layer Blockages:                        0
+	Area Halos:                             0
+	Markers:                                0
+	Rows:                                   0
+	Standard Vias                           10
+	Custom Vias:                            0
+	CdsGen Vias:                            0
+	Pathsegs:                               50
+	Text:                                   4
+	TextDisplay:                            0
+	Cells:                                  11
+
+Elapsed Time: 0.6s   User Time: 0.2s   CPU Time: 0.1s   Peak VM: 5992KB
+INFO (XSTRM-234): Translation completed. '0' error(s) and '1' warning(s) found.

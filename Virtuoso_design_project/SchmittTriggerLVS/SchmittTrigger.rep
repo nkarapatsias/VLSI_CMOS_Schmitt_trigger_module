@@ -1,0 +1,28 @@
+			*****************************************************
+			**                                                 **
+			**                L V S  R E P O R T               **
+			**                                                 **
+			*****************************************************
+
+
+Report File Name         : SchmittTrigger.rep
+ERC Summary File         : SchmittTrigger.sum
+LVS Comparison Report    : SchmittTrigger.rep.cls
+LVS Softchk Report       : SchmittTrigger.softchk
+Layout Name              : /home/s/sevangel/VLSI_Design_Task/SchmittTriggerLVS/SchmittTrigger.gds ("SchmittTrigger")
+User Name                : sevangel
+Creation Time            : Sun Jan  4 12:59:01 2026
+Current directory        : /home/s/sevangel/VLSI_Design_Task/SchmittTriggerLVS
+PVS Version              : 21.12-s022 Wed Feb 9 12:12:42 PST 2022
+
+
+			*****************************************************
+			**                                                 **
+			**            D E V E X T  R E P O R T             **
+			**                                                 **
+			*****************************************************
+
+
+    LVS_SOFTCHK psubstrate -TYPE CONTACT   Total Result        0 (       0)
+    LVS_SOFTCHK nwell_conn -TYPE CONTACT   Total Result        0 (       0)
+    LVS_SOFTCHK Nburied -TYPE CONTACT   Total Result        0 (       0)

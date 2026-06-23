@@ -1,0 +1,6 @@
+# SVDB: Port Table (ports)
+# SVDB: Layout Primary SchmittTrigger
+Gnd 3 Gnd 3500 770 metal1_conn
+In 1 In 530 2630 metal1_conn
+Vdd 4 Vdd 3060 5250 metal1_conn
+Out 5 Out 5680 2660 metal1_conn

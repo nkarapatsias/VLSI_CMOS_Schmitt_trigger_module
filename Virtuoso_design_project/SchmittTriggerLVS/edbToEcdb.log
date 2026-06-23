@@ -1,0 +1,17 @@
+
+/mnt/apps/prebuilt/EDA/cadence/2022-23/RHELx86/PVS/tools.lnx86/pvs/bin/64bit/edbToEcdb Output Summary
+========================================================================
+
+Delete EDB      : N
+EDB Library dir : SchmittTrigger_3530783.db
+ECDB dir        : ./
+Top Cell        : SchmittTrigger
+CDL netlist     : svdb/SchmittTrigger.net
+Layer map file  : svdb/SchmittTrigger.ecdbmap
+Text map file   : svdb/SchmittTrigger.ports
+Dependency map  : SchmittTrigger.lmap.perc
+Lvs file        : svdb/SchmittTrigger.lvsfile
+Float net file  : .SchmittTrigger.info.softchk
+threads         : 32
+debug           : 0
+Source Library  : SchmittTrigger_3530783

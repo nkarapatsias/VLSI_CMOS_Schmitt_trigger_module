@@ -1,0 +1,34 @@
+##############################################################################################################
+#####  
+#####                                         PVS LVS COMPARISON
+#####  
+#####  Version                       :   21.12-s022
+#####  NVN Run Start                 :   Sun Jan  4 12:59:04 2026
+#####  ERC Summary File              :   SchmittTrigger.sum
+#####  Extraction Report File        :   SchmittTrigger.rep
+#####  Comparison Report File        :   SchmittTrigger.rep.cls
+#####  Top Cell                      :   SchmittTrigger  <vs>  SchmittTrigger
+#####  
+#####  Run Result                    :   MATCH
+#####  
+#####  Run Summary                   :   [INFO]  ERC Results: Empty
+#####                                :   [INFO]  Extraction Clean
+#####  
+#####  Layout Design                 :   SchmittTriggerDesign SchmittTrigger layout
+#####  Schematic File                :   /home/s/sevangel/VLSI_Design_Task/SchmittTriggerLVS/SchmittTrigger.cdl (cdl)
+#####  Rules File                    :   /home/s/sevangel/VLSI_Design_Task/SchmittTriggerLVS/.technology.rul
+#####  Pin Swap File                 :   SchmittTrigger.rep.cps
+#####  
+#####  Extraction CPU Time           :   0h 0m 1s - (1s)
+#####  Extraction Exec Time          :   0h 0m 1s - (1s)
+#####  Extraction Peak Memory Usage  :   35.00MB
+#####  NVN CPU Time                  :   0h 0m 1s - (1s)                 
+#####  NVN Exec Time                 :   0h 0m 2s - (2s)                 
+#####  NVN Peak Memory Usage         :   253.00MB
+#####  LVS Total CPU Time            :   0h 0m 2s - (2s)                 
+#####  LVS Total Exec Time           :   0h 0m 3s - (3s)                 
+#####  LVS Total Peak Memory Usage   :   253.00MB
+#####  
+##############################################################################################################
+
+

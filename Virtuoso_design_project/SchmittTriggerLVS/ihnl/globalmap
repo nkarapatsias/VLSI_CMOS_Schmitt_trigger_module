@@ -1,0 +1,8 @@
+CADENCE IHNL11140
+$model
+SchmittTriggerDesign/SchmittTrigger/schematic SchmittTrigger
+$endmodel
+$net
+$endnet
+$param
+$endparam
