@@ -1,0 +1,5 @@
+
+// Library name: SchmittTriggerDesign
+// Cell name: SchmittTrigger
+// View name: schematic
+subckt SchmittTrigger Gnd In Out Vdd

@@ -1,0 +1,20 @@
+( ( nil
+  version "2.1"
+  mapType "incremental"
+  blockName "SchmittTriggerTest"
+  repList "spectre cmos_sch cmos.sch schematic veriloga"
+  stopList "spectre"
+  globalList "gnd!"
+  hierDelim "."
+  netlistDir "/home/s/sevangel/VLSI_Design_Task/SchmittTriggerDesign/SchmittTriggerTest/spectre/schematic/netlist"
+ )
+( net
+( "gnd!" "0" )
+ )
+( model
+( "SchmittTriggerDesign/SchmittTrigger/schematic" "SchmittTrigger" )
+( "SchmittTriggerDesign/SchmittTriggerTest/schematic" "SchmittTriggerTest" )
+ )
+( "SchmittTrigger" "ihnl/cds0/map" )
+( "SchmittTriggerTest" "ihnl/cds1/map" )
+ )

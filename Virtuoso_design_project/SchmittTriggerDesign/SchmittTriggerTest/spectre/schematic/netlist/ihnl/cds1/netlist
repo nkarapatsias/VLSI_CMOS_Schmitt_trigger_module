@@ -1,0 +1,10 @@
+
+// Library name: SchmittTriggerDesign
+// Cell name: SchmittTriggerTest
+// View name: schematic
+I0 (Gnd net1 net2 Vdd) SchmittTrigger
+V0 (Vdd 0) vsource dc=1.2 type=dc
+GND (Gnd 0) vsource dc=0 type=dc
+C0 (net2 0) capacitor c=200f
+V2 (net1 0) vsource type=pulse val0=0.3V val1=900.0m period=20n rise=10n \
+        fall=10n width=0

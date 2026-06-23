@@ -1,0 +1,63 @@
+// Generated for: spectre
+// Generated on: Dec 29 20:06:32 2025
+// Design library name: SchmittTriggerDesign
+// Design cell name: SchmittTriggerTest
+// Design view name: schematic
+simulator lang=spectre
+global 0
+include "/mnt/apps/prebuilt/EDA/designkits/GPDK/gpdk045_v_6_0/gpdk045/../models/spectre/gpdk045.scs" section=tt
+
+// Library name: SchmittTriggerDesign
+// Cell name: SchmittTrigger
+// View name: schematic
+subckt SchmittTrigger Gnd In Out Vdd
+    NM0 (net36 In net37 Gnd) g45n1svt w=(250n) l=45n nf=1 as=35f ad=35f \
+        ps=780n pd=780n nrd=560m nrs=560m sa=140n sb=140n sd=160n \
+        sca=148.34321 scb=0.10360 scc=0.01825 m=(1)
+    NM1 (net37 In Gnd Gnd) g45n1svt w=(250n) l=45n nf=1 as=35f ad=35f \
+        ps=780n pd=780n nrd=560m nrs=560m sa=140n sb=140n sd=160n \
+        sca=148.34321 scb=0.10360 scc=0.01825 m=(1)
+    NM4 (Vdd net36 net37 Gnd) g45n1svt w=(135n) l=45n nf=1 as=18.9f \
+        ad=18.9f ps=550n pd=550n nrd=1.03704 nrs=1.03704 sa=140n sb=140n \
+        sd=160n sca=211.75650 scb=0.11604 scc=0.02616 m=(1)
+    NM3 (Out net36 Gnd Gnd) g45n1svt w=(500n) l=45n nf=1 as=70f ad=70f \
+        ps=1.28u pd=1.28u nrd=280m nrs=280m sa=140n sb=140n sd=160n \
+        sca=100.34014 scb=0.08228 scc=0.01192 m=(1)
+    PM0 (net36 In net38 Vdd) g45p1svt w=(490n) l=45n nf=1 as=68.6f \
+        ad=68.6f ps=1.26u pd=1.26u nrd=285.714m nrs=285.714m sa=140n \
+        sb=140n sd=160n sca=101.42239 scb=0.08289 scc=0.01205 m=(1)
+    PM1 (net38 In Vdd Vdd) g45p1svt w=(490n) l=45n nf=1 as=68.6f ad=68.6f \
+        ps=1.26u pd=1.26u nrd=285.714m nrs=285.714m sa=140n sb=140n \
+        sd=160n sca=101.42239 scb=0.08289 scc=0.01205 m=(1)
+    PM2 (Gnd net36 net38 Vdd) g45p1svt w=(305n) l=45n nf=1 as=42.7f \
+        ad=42.7f ps=890n pd=890n nrd=459.016m nrs=459.016m sa=140n sb=140n \
+        sd=160n sca=132.14053 scb=0.09779 scc=0.01606 m=(1)
+    PM3 (Out net36 Vdd Vdd) g45p1svt w=(1u) l=45n nf=1 as=140f ad=140f \
+        ps=2.28u pd=2.28u nrd=140m nrs=140m sa=140n sb=140n sd=160n \
+        sca=72.26287 scb=0.06569 scc=0.00861 m=(1)
+ends SchmittTrigger
+// End of subcircuit definition.
+
+// Library name: SchmittTriggerDesign
+// Cell name: SchmittTriggerTest
+// View name: schematic
+I0 (Gnd net1 net2 Vdd) SchmittTrigger
+V0 (Vdd 0) vsource dc=1.2 type=dc
+GND (Gnd 0) vsource dc=0 type=dc
+C0 (net2 0) capacitor c=200f
+V2 (net1 0) vsource type=pulse val0=0.3V val1=900.0m period=20n rise=10n \
+        fall=10n width=0
+simulatorOptions options psfversion="1.4.0" reltol=1e-3 vabstol=1e-6 \
+    iabstol=1e-12 temp=27 tnom=27 scalem=1.0 scale=1.0 gmin=1e-12 rforce=1 \
+    maxnotes=5 maxwarns=5 digits=5 cols=80 pivrel=1e-3 \
+    sensfile="../psf/sens.output" checklimitdest=psf 
+tran tran stop=40n write="spectre.ic" writefinal="spectre.fc" \
+    annotate=status maxiters=5 
+finalTimeOP info what=oppoint where=rawfile
+modelParameter info what=models where=rawfile
+element info what=inst where=rawfile
+outputParameter info what=output where=rawfile
+designParamVals info what=parameters where=rawfile
+primitives info what=primitives where=rawfile
+subckts info what=subckts where=rawfile
+saveOptions options save=allpub

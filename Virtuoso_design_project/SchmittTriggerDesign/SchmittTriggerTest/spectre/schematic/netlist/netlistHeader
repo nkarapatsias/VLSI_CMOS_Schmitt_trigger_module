@@ -1,0 +1,7 @@
+// Generated for: spectre
+// Generated on: Dec 29 20:06:32 2025
+// Design library name: SchmittTriggerDesign
+// Design cell name: SchmittTriggerTest
+// Design view name: schematic
+simulator lang=spectre
+global 0

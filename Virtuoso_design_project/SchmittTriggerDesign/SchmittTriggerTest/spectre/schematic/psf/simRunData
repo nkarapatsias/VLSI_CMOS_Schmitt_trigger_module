@@ -1,0 +1,10 @@
+HEADER
+"PSFversion" "1.00"
+"design" "(\"SchmittTriggerDesign\" \"SchmittTriggerTest\" \"schematic\" \"\")"
+"simulator" "spectre"
+"temperature" "27"
+"host" ""
+"date" "Dec 29 20:06:32 2025"
+"title" ""
+"analysisList" "()"
+END

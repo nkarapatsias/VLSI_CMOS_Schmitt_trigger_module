@@ -1,0 +1,8 @@
+HEADER
+"PSFversion" "1.00"
+"NM0n NM1n NM4n NM3n" "gpdk045_nmos1v_spectre"
+"PM0n PM1n PM2n PM3n" "gpdk045_pmos1v_spectre"
+"Gndv" ":1v"
+"Inv" ":2v"
+"Outv" ":3v"
+"Vddv" ":4v"
